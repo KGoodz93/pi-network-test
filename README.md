@@ -8,16 +8,10 @@ In this instance, this will ping the following:
 192.168.1.97 (snowmoon)
 192.168.1.238 (wolfmoon)
 
+If the ping response is OK, this will return the following:
+
 ![image](https://user-images.githubusercontent.com/82043281/155323330-9ac0868b-343f-4546-99da-b71e33032722.png)
 
-If the ping response is ok, this will return the following:
+However, if there is any connection issues, this will return the following message:
 
-Connection established to: 8.8.8.8 (Google Public DNS)
-Connection established to: 192.168.1.97 (snowmoon)
-Connection established to: 192.168.1.238 (wolfmoon)
-
-However, if there is an issue, this will return the following:
-
-Unable to connect to: 8.8.8.8 (Google Public DNS). Please check the connection and try again.
-Unable to connect to: 192.168.1.97 (snowmoon). Please check the connection and try again.
-Unable to connect to: 192.168.1.238 (wolfmoon). Please check the connection and try again.
+Unable to connect to: 192.168.1.97 (snowmoon) Please check the connection and try again.
