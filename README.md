@@ -17,3 +17,7 @@ Connection established to: 192.168.1.97 (snowmoon)
 Connection established to: 192.168.1.238 (wolfmoon)
 
 However, if there is an issue, this will return the following:
+
+Unable to connect to: 8.8.8.8 (Google Public DNS). Please check the connection and try again.
+Unable to connect to: 192.168.1.97 (snowmoon). Please check the connection and try again.
+Unable to connect to: 192.168.1.238 (wolfmoon). Please check the connection and try again.
